@@ -1,0 +1,25 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 2rem;
+  row-gap: 2rem;
+  margin-bottom: 5rem;
+
+}
+
+.card {
+  position: relative;
+}
+
+
+
+.card img {
+  display: inline-block;
+  width: 100%;
+  min-height: 9.4rem;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 3;
+  border-radius: .5rem;
+}
+

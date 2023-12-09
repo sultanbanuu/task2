@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.social-icon, .icon {
+    width: 2rem;
+}
+
+h1 {
+  color: #fff;
+}
+
+.footerGap {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+
+

@@ -1,0 +1,94 @@
+{
+    "topics": [
+        {
+            "id": 1,
+            "image": "https://grifa.digital/wp-content/uploads/2023/01/Blog-Image.png",
+            "category": "ADVENTURE",
+            "date": "08.08.2021",
+            "title": "Dream destinations to visit this year in Paris",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 2,
+            "image": "https://c0.wallpaperflare.com/preview/970/291/723/water-travel-lake-swim.jpg",
+            "category": "TRAVEL",
+            "date": "08.08.2021",
+            "title": "Breathtaking first-person photos around Europe",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 3,
+            "image": "https://images.unsplash.com/photo-1628613805789-3d115eb56f5f?q=80&w=1956&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "category": "TECHNOLOGY",
+            "date": "08.08.2021",
+            "title": "What collectors need to know about authenticity",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 4,
+            "image": "https://i.pinimg.com/736x/b7/ce/96/b7ce9662eb991cbbbd2e981efb734855.jpg",
+            "category": "FASHION",
+            "date": "08.08.2021",
+            "title": "What collectors need to know about authenticity",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 5,
+            "image": "https://i.dailymail.co.uk/i/pix/2012/06/06/article-2155154-13734B9F000005DC-528_964x363.jpg",
+            "category": "ADVENTURE",
+            "date": "08.08.2021",
+            "title": "Thins to know before visiting Cave in Germany",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 6,
+            "image": "https://www.itsbeyondmycontrol.com/wp-content/uploads/2022/11/VintagefashionbloggerDominiquedeMerteuil.jpg",
+            "category": "FASHION",
+            "date": "08.08.2021",
+            "title": "Nina Smith vibrant work collab with Nike Dunk",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 7,
+            "image": "https://cdn.pixabay.com/photo/2022/06/22/14/50/woods-7278071_1280.jpg",
+            "category": "TECHNOLOGY",
+            "date": "08.08.2021",
+            "title": "Richard Norton photorealistic rendering as real photos",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        },
+        {
+            "id": 8,
+            "image": "https://cdn.images.express.co.uk/img/dynamic/25/590x/secondary/Viral-video-underwater-1181378.jpg?r=1686998680160",
+            "category": "TECHNOLOGY",
+            "date": "08.08.2021",
+            "title": "Richard Norton photorealistic rendering as real photos",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. Credibly productivate seamless data with flexible schemas."
+        }
+    ],
+    "editor-choice": [
+        {
+            "id": 9,
+            "image": "https://calumlewis.co.uk/wp-content/uploads/2021/07/CJL7618-Edit.jpg",
+            "date": "08.08.2021",
+            "category": "ADVENTURE",
+            "title": "Richird Norton photorealistic rendering as real photos",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. The credibly productivate seamless data."
+        },
+        {
+            "id": 10,
+            "image": "https://calumlewis.co.uk/wp-content/uploads/2021/07/CJL7618-Edit.jpg",
+            "date": "08.08.2021",
+            "category": "ADVENTURE",
+            "title": "Richird Norton photorealistic rendering as real photos",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. The credibly productivate seamless data."
+        },
+        {
+            "id": 11,
+            "image": "https://calumlewis.co.uk/wp-content/uploads/2021/07/CJL7618-Edit.jpg",
+            "date": "08.08.2021",
+            "category": "ADVENTURE",
+            "title": "Richird Norton photorealistic rendering as real photos",
+            "description": "Progressively incentivize cooperative systems through technically sound functionalities. The credibly productivate seamless data."
+        }
+    ]
+}

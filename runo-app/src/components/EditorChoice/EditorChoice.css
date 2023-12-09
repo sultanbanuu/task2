@@ -1,0 +1,19 @@
+.choice-cards {
+  display: flex;
+  color: #fff;
+  gap: 20px;
+  margin-bottom: 149px;
+}
+
+.choice-card {
+    position: relative;
+}
+
+.choice-txt {
+  position: absolute;
+  top: 55%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+}
+
+
